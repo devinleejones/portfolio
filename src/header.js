@@ -7,6 +7,7 @@ export default class Header extends Component {
         <div className="header-container">
           <h1 className="wow bounceInDown">{"I'm Devin Lee-Jones"}</h1>
           <h2>a Front-End Developer</h2>
+          <i className="far fa-arrow-alt-circle-down" />
         </div>
       </header>
     )
