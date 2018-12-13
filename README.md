@@ -2,7 +2,7 @@
 
 #### [Portfolio Link](https://devinleejones.github.io/portfolio)
 
-<img width="1440" alt="screen shot 2018-12-12 at 11 42 14 pm" src="https://user-images.githubusercontent.com/38872859/49923272-cbdac980-fe67-11e8-84e5-1b3fdb824d30.png">
+<img width="1440" alt="personalportfolioss" src="https://user-images.githubusercontent.com/38872859/49927783-9dfb8200-fe73-11e8-8be5-000c77591291.png">
 
 # Technologies
 
