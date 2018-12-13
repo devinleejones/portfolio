@@ -12,7 +12,7 @@ body {
 
 a {
   text-decoration: none;
-  color: white;
+  color: black;
 }
 
 nav {
@@ -22,7 +22,16 @@ nav {
   justify-content: space-between;
   background-color: rgba(0, 0, 0, 0.2);
   width: 100%;
-  padding: 1.5rem 2rem;
+  padding: 1rem 1rem;
+}
+
+li {
+  display: inline;
+  margin: 0 0.75rem
+}
+
+a:visited:hover {
+  color: white;
 }
 
 header {
@@ -39,7 +48,11 @@ header {
 			background-position: center,								center,														top center;
 			background-repeat: repeat,								no-repeat,													no-repeat;
 			background-attachment: scroll,								scroll,														scroll;
-  color: #fff;
+  color: black;
+}
+
+i:hover {
+  color: white;
 }
 
 .header-container {
@@ -58,4 +71,9 @@ header {
 
 h1 {
   margin-bottom: 1rem;
+}
+
+header h1:hover,
+header h2:hover {
+  color: white;
 }

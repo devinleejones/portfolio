@@ -6,9 +6,28 @@ export default class Navbar extends Component {
     return (
       <nav>
         <a href="https://devinleejones.github.io/portfolio/">Devin Lee-Jones</a>
-        <a target="_blank" rel="noopener noreferrer" href={pdfFile}>
-          Resume
-        </a>
+        <ul>
+          <li>
+            <a target="_blank" rel="noopener noreferrer" href={pdfFile}>
+              About Me
+            </a>
+          </li>
+          <li>
+            <a target="_blank" rel="noopener noreferrer" href={pdfFile}>
+              Projects
+            </a>
+          </li>
+          <li>
+            <a target="_blank" rel="noopener noreferrer" href={pdfFile}>
+              Tech
+            </a>
+          </li>
+          <li>
+            <a target="_blank" rel="noopener noreferrer" href={pdfFile}>
+              Resume
+            </a>
+          </li>
+        </ul>
       </nav>
     )
   }
