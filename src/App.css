@@ -29,10 +29,16 @@ header {
   display: flex;
   flex-direction: column;
   align-items: center;
+  background-image: url("assets/images/vintageOcean.jpg"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("assets/images/vintageOcean.jpg");
   font-size: 32px;
   justify-content: center;
   height: 100vh;
-  background: linear-gradient(to top, #80e3ff, rgb(216, 216, 216));
+  width: 100%;
+  /* background: linear-grasdient(to top, #80e3ff, rgb(216, 216, 216)); */
+  background-size: auto,								auto,														100% auto;
+			background-position: center,								center,														top center;
+			background-repeat: repeat,								no-repeat,													no-repeat;
+			background-attachment: scroll,								scroll,														scroll;
   color: #fff;
 }
 
