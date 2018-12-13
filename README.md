@@ -25,12 +25,6 @@ cd portfolio
 npm install
 ```
 
-Create an '.env' file in the project root.
-
-```
-PORT=3000
-```
-
 Run the application
 
 ```
