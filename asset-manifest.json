@@ -1,14 +1,15 @@
 {
-  "main.css": "/portfolio/static/css/main.752065d1.chunk.css",
-  "main.js": "/portfolio/static/js/main.93d37b51.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.93d37b51.chunk.js.map",
+  "main.css": "/portfolio/static/css/main.741dea3a.chunk.css",
+  "main.js": "/portfolio/static/js/main.b7f527df.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.b7f527df.chunk.js.map",
   "static/js/1.120e9a6a.chunk.js": "/portfolio/static/js/1.120e9a6a.chunk.js",
   "static/js/1.120e9a6a.chunk.js.map": "/portfolio/static/js/1.120e9a6a.chunk.js.map",
   "runtime~main.js": "/portfolio/static/js/runtime~main.ee2a1003.js",
   "runtime~main.js.map": "/portfolio/static/js/runtime~main.ee2a1003.js.map",
+  "static/css/main.741dea3a.chunk.css.map": "/portfolio/static/css/main.741dea3a.chunk.css.map",
   "static/media/devinleejones.pdf": "/portfolio/static/media/devinleejones.c3040084.pdf",
-  "static/css/main.752065d1.chunk.css.map": "/portfolio/static/css/main.752065d1.chunk.css.map",
+  "static/media/App.css": "/portfolio/static/media/vintageOcean.884a47c0.jpg",
   "index.html": "/portfolio/index.html",
-  "precache-manifest.88810f88a7c2de21f44a33de416363b3.js": "/portfolio/precache-manifest.88810f88a7c2de21f44a33de416363b3.js",
+  "precache-manifest.55f51c2f59660530ddb1b687f7ddfbec.js": "/portfolio/precache-manifest.55f51c2f59660530ddb1b687f7ddfbec.js",
   "service-worker.js": "/portfolio/service-worker.js"
 }
