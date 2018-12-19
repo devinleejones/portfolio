@@ -2,6 +2,7 @@ import React, { Fragment } from 'react'
 import WOW from 'wowjs'
 import Header from './header.js'
 import Navbar from './navbar.js'
+import About from './aboutMe.js'
 import './App.css'
 
 export default class App extends React.Component {
@@ -19,6 +20,7 @@ export default class App extends React.Component {
       <Fragment>
         <Navbar />
         <Header />
+        <About />
       </Fragment>
     )
   }
