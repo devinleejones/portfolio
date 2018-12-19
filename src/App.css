@@ -69,7 +69,16 @@ i:hover {
   }
 }
 
-h1 {
+div.header-container h1 {
+  margin-bottom: 1rem;
+}
+
+.container {
+  text-align: center;
+  padding: 4rem 0;
+}
+
+.main {
   margin-bottom: 1rem;
 }
 
