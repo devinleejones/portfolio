@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export default class About extends Component {
   render() {
     return (
-      <div className="container">
+      <div className="container" id="About">
         <h2 className="main">About Me</h2>
         <p>
           Hello World! Im Dev the Dev! I'm currently a Front-end developer
