@@ -76,10 +76,16 @@ div.header-container h1 {
 .container {
   text-align: center;
   padding: 4rem 0;
+  max-width: 24rem;
+  margin: 0 auto;
+  letter-spacing: 1px;
 }
 
 .main {
   margin-bottom: 1rem;
+  font-size: 32px;
+  color: red;
+  letter-spacing: 2px;
 }
 
 header h1:hover,

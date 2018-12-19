@@ -12,11 +12,7 @@ export default class Navbar extends Component {
         </a>
         <ul>
           <li>
-            <a
-              className="wow fadeIn delay-1s"
-              target="_blank"
-              rel="noopener noreferrer"
-              href={pdfFile}>
+            <a className="wow fadeIn delay-1s" href="#About">
               About Me
             </a>
           </li>
