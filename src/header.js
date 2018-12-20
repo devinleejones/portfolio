@@ -5,8 +5,10 @@ export default class Header extends Component {
     return (
       <header>
         <div className="header-container">
-          <h1 className="wow bounceInDown delay-1s">{"I'm Devin Lee-Jones"}</h1>
-          <h2>a Front-End Developer</h2>
+          <h1 className="wow bounceInDown delay-1s header-name">
+            {"I'm Devin Lee-Jones"}
+          </h1>
+          <h2 className="header-title">a Front-End Developer</h2>
           <i className="far fa-arrow-alt-circle-down" />
         </div>
       </header>

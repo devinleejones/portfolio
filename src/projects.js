@@ -6,11 +6,16 @@ export default class Projects extends Component {
       <div className="secondary">
         <div className="container" id="Projects">
           <h2 className="main">Projects</h2>
-          <p className="projects-content">
-            Here are some of the projects that I've worked on recently:
-          </p>
+          <p className="projects-content">Here is some of my recent work:</p>
           <div>
             <div className="card-container">
+              <a
+                className="wow fadeIn delay-1s project-links"
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://outfit-pal.herokuapp.com/#home">
+                OutfitPal
+              </a>
               <img
                 src={require('./assets/images/OutfitPal.jpg')}
                 alt=""
@@ -22,6 +27,13 @@ export default class Projects extends Component {
               </p>
             </div>
             <div className="card-container">
+              <a
+                className="wow fadeIn delay-1s project-links"
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://devinleejones.github.io/react-flash-cards/">
+                React Flash Cards
+              </a>
               <img
                 src={require('./assets/images/ReactFlashCards.jpg')}
                 alt=""
