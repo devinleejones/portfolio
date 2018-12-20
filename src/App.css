@@ -5,8 +5,7 @@
 }
 
 body {
-  font-family: 'Amatic SC', cursive;
-  font-weight: 800;
+  font-family: 'Montserrat', sans-serif;
   color: black;
 }
 
@@ -18,7 +17,7 @@ a {
 nav {
   position: fixed;
   display: flex;
-  font-size: 24px;
+  font-size: 18px;
   justify-content: space-between;
   background-color: rgba(0, 0, 0, 0.2);
   width: 100%;
@@ -27,7 +26,7 @@ nav {
 
 li {
   display: inline;
-  margin: 0 0.75rem
+  margin: 0 0.5rem
 }
 
 a:hover {
@@ -39,7 +38,7 @@ header {
   flex-direction: column;
   align-items: center;
   background-image: url("assets/images/vintageOceanSM.jpg"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("assets/images/vintageOceanSM.jpg");
-  font-size: 32px;
+  font-size: 28px;
   justify-content: center;
   height: 100vh;
   width: 100%;
@@ -56,11 +55,19 @@ i:hover {
 }
 
 .header-container {
-  max-width: 32rem;
+  max-width: 40rem;
   text-align: center;
   margin-top: 4rem;
   margin-bottom: 4rem;
   letter-spacing: 4px;
+}
+
+.header-title {
+  margin-bottom: 2rem
+}
+
+.header-name {
+  font-size: 54px
 }
 
 @media screen and (min-width: 462px) {
@@ -76,7 +83,7 @@ div.header-container h1 {
 .container {
   text-align: center;
   padding: 4rem 0;
-  max-width: 24rem;
+  max-width: 30rem;
   margin: 0 auto;
   letter-spacing: 1px;
 }
@@ -91,4 +98,42 @@ div.header-container h1 {
 header h1:hover,
 header h2:hover {
   color: white;
+}
+
+.content {
+  font-family: 'Raleway';
+  font-size: 1.2rem;
+  padding: 0 2rem
+}
+
+.projects-content {
+  font-family: 'Raleway';
+  font-size: 1.2rem;
+  padding: 0 2rem 2rem 2rem
+}
+
+.secondary {
+  background-color: #eee
+}
+
+.card-container {
+  border: solid 1px;
+  border-color: rgb(206, 206, 206);
+  width: 90%;
+  margin: 1rem auto
+}
+
+.card-image {
+  width: 100%;
+  height: auto;
+}
+
+.card-content {
+  padding: 0.5rem 1rem 1rem 1rem;
+  text-align: left;
+  font-size: 90%
+}
+
+.project-links {
+  font-weight: 900;
 }
