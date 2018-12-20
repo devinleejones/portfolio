@@ -8,23 +8,31 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/devinleejones.c3040084.pdf"
   },
   {
+    "revision": "023d6bf9cc7131acbfa43945cbcb50f7",
+    "url": "/portfolio/static/media/ReactFlashCards.023d6bf9.jpg"
+  },
+  {
+    "revision": "8de1527a8e9187101d4c6faf8d2651bb",
+    "url": "/portfolio/static/media/OutfitPal.8de1527a.jpg"
+  },
+  {
     "revision": "ee2a100325fd284f0097",
     "url": "/portfolio/static/js/runtime~main.ee2a1003.js"
   },
   {
-    "revision": "90381fb15cf6e4f13729",
-    "url": "/portfolio/static/js/main.90381fb1.chunk.js"
+    "revision": "0b2fdf9ec5128b459db9",
+    "url": "/portfolio/static/js/main.0b2fdf9e.chunk.js"
   },
   {
     "revision": "88480ecdd6934c487306",
     "url": "/portfolio/static/js/1.88480ecd.chunk.js"
   },
   {
-    "revision": "90381fb15cf6e4f13729",
-    "url": "/portfolio/static/css/main.0f72c7b7.chunk.css"
+    "revision": "0b2fdf9ec5128b459db9",
+    "url": "/portfolio/static/css/main.85b847af.chunk.css"
   },
   {
-    "revision": "64d720792b78ac8f9b82978cfc6b6067",
+    "revision": "2c4d7b8361b9a075646fa99b1127c5af",
     "url": "/portfolio/index.html"
   }
 ];
